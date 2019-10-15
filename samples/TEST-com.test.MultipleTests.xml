@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.test.MultipleTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-10-15T08:36:37" hostname="jenkins09" time="0.72">
+  <properties/>
+  <testcase name="testOne" classname="com.test.MultipleTests" time="0.031"/>
+  <testcase name="testTwo" classname="com.test.MultipleTests" time="0.008"/>
+</testsuite>

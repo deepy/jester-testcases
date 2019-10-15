@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.moowork.gradle.node.util.PlatformHelperTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2019-10-15T09:12:13" hostname="jenkins08" time="0.063">
+  <properties/>
+  <testcase name="check os and architecture for Windows 8 (x86)" classname="com.moowork.gradle.node.util.PlatformHelperTest" time="0.0"/>
+  <testcase name="check os and architecture for Windows 8 (x86_64)" classname="com.moowork.gradle.node.util.PlatformHelperTest" time="0.0"/>
+  <testcase name="check os and architecture for Mac OS X (x86)" classname="com.moowork.gradle.node.util.PlatformHelperTest" time="0.0"/>
+  <testcase name="check os and architecture for Mac OS X (x86_64)" classname="com.moowork.gradle.node.util.PlatformHelperTest" time="0.0"/>
+  <testcase name="check os and architecture for Linux (x86)" classname="com.moowork.gradle.node.util.PlatformHelperTest" time="0.0"/>
+  <testcase name="check os and architecture for Linux (x86_64)" classname="com.moowork.gradle.node.util.PlatformHelperTest" time="0.0"/>
+  <testcase name="check os and architecture for SunOS (x86)" classname="com.moowork.gradle.node.util.PlatformHelperTest" time="0.0"/>
+  <testcase name="check os and architecture for SunOS (x86_64)" classname="com.moowork.gradle.node.util.PlatformHelperTest" time="0.0"/>
+  <testcase name="check that aarch32/64 is handled as arm" classname="com.moowork.gradle.node.util.PlatformHelperTest" time="0.055"/>
+  <testcase name="throw exception if unsupported os" classname="com.moowork.gradle.node.util.PlatformHelperTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

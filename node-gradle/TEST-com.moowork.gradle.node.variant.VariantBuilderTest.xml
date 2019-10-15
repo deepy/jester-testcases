@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.moowork.gradle.node.variant.VariantBuilderTest" tests="29" skipped="0" failures="0" errors="0" timestamp="2019-10-15T09:12:38" hostname="jenkins08" time="0.274">
+  <properties/>
+  <testcase name="test variant on windows version &lt;4 (x86)" classname="com.moowork.gradle.node.variant.VariantBuilderTest" time="0.004"/>
+  <testcase name="test variant on windows version &lt;4 (x86_64)" classname="com.moowork.gradle.node.variant.VariantBuilderTest" time="0.006"/>
+  <testcase name="test variant on windows version 4.+ with exe (x86)" classname="com.moowork.gradle.node.variant.VariantBuilderTest" time="0.004"/>
+  <testcase name="test variant on windows version 4.+ with exe (x86_64)" classname="com.moowork.gradle.node.variant.VariantBuilderTest" time="0.004"/>
+  <testcase name="test variant on windows without exe (win-x86)" classname="com.moowork.gradle.node.variant.VariantBuilderTest" time="0.006"/>
+  <testcase name="test variant on windows without exe (win-x86)" classname="com.moowork.gradle.node.variant.VariantBuilderTest" time="0.006"/>
+  <testcase name="test variant on windows without exe (win-x86)" classname="com.moowork.gradle.node.variant.VariantBuilderTest" time="0.005"/>
+  <testcase name="test variant on windows without exe (win-x64)" classname="com.moowork.gradle.node.variant.VariantBuilderTest" time="0.005"/>
+  <testcase name="test variant on windows without exe (win-x64)" classname="com.moowork.gradle.node.variant.VariantBuilderTest" time="0.037"/>
+  <testcase name="test variant on windows without exe (win-x64)" classname="com.moowork.gradle.node.variant.VariantBuilderTest" time="0.006"/>
+  <testcase name="test variant on non-windows (Linux, x86)" classname="com.moowork.gradle.node.variant.VariantBuilderTest" time="0.003"/>
+  <testcase name="test variant on non-windows (Linux, x86_64)" classname="com.moowork.gradle.node.variant.VariantBuilderTest" time="0.003"/>
+  <testcase name="test variant on non-windows (Mac OS X, x86)" classname="com.moowork.gradle.node.variant.VariantBuilderTest" time="0.005"/>
+  <testcase name="test variant on non-windows (Mac OS X, x86_64)" classname="com.moowork.gradle.node.variant.VariantBuilderTest" time="0.004"/>
+  <testcase name="test variant on non-windows (FreeBSD, x86)" classname="com.moowork.gradle.node.variant.VariantBuilderTest" time="0.004"/>
+  <testcase name="test variant on non-windows (FreeBSD, x86_64)" classname="com.moowork.gradle.node.variant.VariantBuilderTest" time="0.006"/>
+  <testcase name="test variant on non-windows (SunOS, x86)" classname="com.moowork.gradle.node.variant.VariantBuilderTest" time="0.005"/>
+  <testcase name="test variant on non-windows (SunOS, x86_64)" classname="com.moowork.gradle.node.variant.VariantBuilderTest" time="0.005"/>
+  <testcase name="test variant on ARM (Linux, arm, armv6l)" classname="com.moowork.gradle.node.variant.VariantBuilderTest" time="0.109"/>
+  <testcase name="test variant on ARM (Linux, arm, armv7l)" classname="com.moowork.gradle.node.variant.VariantBuilderTest" time="0.004"/>
+  <testcase name="test variant on ARM (Linux, arm, arm64)" classname="com.moowork.gradle.node.variant.VariantBuilderTest" time="0.004"/>
+  <testcase name="test npm paths on windows[0]" classname="com.moowork.gradle.node.variant.VariantBuilderTest" time="0.004"/>
+  <testcase name="test npm paths on windows[1]" classname="com.moowork.gradle.node.variant.VariantBuilderTest" time="0.003"/>
+  <testcase name="test npm paths on windows[2]" classname="com.moowork.gradle.node.variant.VariantBuilderTest" time="0.003"/>
+  <testcase name="test npm paths on windows[3]" classname="com.moowork.gradle.node.variant.VariantBuilderTest" time="0.003"/>
+  <testcase name="test npm paths on non-windows[0]" classname="com.moowork.gradle.node.variant.VariantBuilderTest" time="0.003"/>
+  <testcase name="test npm paths on non-windows[1]" classname="com.moowork.gradle.node.variant.VariantBuilderTest" time="0.003"/>
+  <testcase name="test npm paths on non-windows[2]" classname="com.moowork.gradle.node.variant.VariantBuilderTest" time="0.003"/>
+  <testcase name="test npm paths on non-windows[3]" classname="com.moowork.gradle.node.variant.VariantBuilderTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

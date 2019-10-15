@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.moowork.gradle.node.NodePluginTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-10-15T09:07:46" hostname="jenkins08" time="0.929">
+  <properties/>
+  <testcase name="check default tasks" classname="com.moowork.gradle.node.NodePluginTest" time="0.052"/>
+  <testcase name="check repository and dependencies (no download)" classname="com.moowork.gradle.node.NodePluginTest" time="0.814"/>
+  <testcase name="check npm rule task" classname="com.moowork.gradle.node.NodePluginTest" time="0.062"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

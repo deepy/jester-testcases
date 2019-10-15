@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.moowork.gradle.node.npm.NpxTaskTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-10-15T09:07:46" hostname="jenkins08" time="0.243">
+  <properties/>
+  <testcase name="exec npx task" classname="com.moowork.gradle.node.npm.NpxTaskTest" time="0.094"/>
+  <testcase name="exec npx task (windows)" classname="com.moowork.gradle.node.npm.NpxTaskTest" time="0.052"/>
+  <testcase name="exec npx task (download)" classname="com.moowork.gradle.node.npm.NpxTaskTest" time="0.096"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

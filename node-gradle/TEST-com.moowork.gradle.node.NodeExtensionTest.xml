@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.moowork.gradle.node.NodeExtensionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-15T09:10:32" hostname="jenkins08" time="2.252">
+  <properties/>
+  <testcase name="check default values for extension" classname="com.moowork.gradle.node.NodeExtensionTest" time="2.252"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

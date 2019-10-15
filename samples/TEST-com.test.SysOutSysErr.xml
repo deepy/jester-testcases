@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.test.SysOutSysErr" tests="1" skipped="1" failures="0" errors="0" timestamp="2019-10-15T08:36:40" hostname="jenkins04" time="0.0">
+  <properties/>
+  <testcase name="systemErrSystemOut" classname="com.test.SysOutSysErr" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[Starting test.
+Listening on :8080
+]]></system-out>
+  <system-err><![CDATA[:8080 is busy
+Trying :8081
+:8081 is busy
+Trying :8082
+Listening on :8082
+]]></system-err>
+</testsuite>
